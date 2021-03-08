@@ -1,2 +1,2 @@
-# Python-Code
-Python Programs
+# Simple-Encryptor
+A basic encryption app written in Python
